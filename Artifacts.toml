@@ -1,89 +1,89 @@
 [[Xorg_util_macros]]
 arch = "armv7l"
-git-tree-sha1 = "a1df0e831415d3ed7e756334cd6dc21fe59539af"
+git-tree-sha1 = "333a01b03e6b103e81f9b4e4f4419b9b72db8f8d"
 libc = "glibc"
 os = "linux"
 
     [[Xorg_util_macros.download]]
-    sha256 = "42a7b803f4e6fa19d15fc0b164e0056556719fa915bc8d064b45e4fa560f7de7"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_util_macros_jll.jl/releases/download/Xorg_util_macros-v1.19.2+0/Xorg_util_macros.v1.19.2.arm-linux-gnueabihf.tar.gz"
+    sha256 = "1f7d5567e6e60e6d78293440699ff1c8ed1704d47ffc89e9a1dca4b3109baf86"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_util_macros_jll.jl/releases/download/Xorg_util_macros-v1.19.2+1/Xorg_util_macros.v1.19.2.armv7l-linux-gnueabihf.tar.gz"
+[[Xorg_util_macros]]
+arch = "i686"
+git-tree-sha1 = "a1babf6b06c5e89cd4b01f1f5c587ce4dc1d746c"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_util_macros.download]]
+    sha256 = "9dd36ef0350c2e5c7aea62358bb77f7aa2cb9a6c9ef61091d01175b97de8c857"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_util_macros_jll.jl/releases/download/Xorg_util_macros-v1.19.2+1/Xorg_util_macros.v1.19.2.i686-linux-musl.tar.gz"
 [[Xorg_util_macros]]
 arch = "aarch64"
-git-tree-sha1 = "803ca90af065de8c794571ca34d79b4323c72f60"
-libc = "musl"
-os = "linux"
-
-    [[Xorg_util_macros.download]]
-    sha256 = "c7fd4753cf2987f47e32475a6e317257097f40fa68c5e2a4fb20c3edfa867663"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_util_macros_jll.jl/releases/download/Xorg_util_macros-v1.19.2+0/Xorg_util_macros.v1.19.2.aarch64-linux-musl.tar.gz"
-[[Xorg_util_macros]]
-arch = "i686"
-git-tree-sha1 = "624c2edef481d4433eb05594a06a9c0f2f2542c2"
-libc = "musl"
-os = "linux"
-
-    [[Xorg_util_macros.download]]
-    sha256 = "a3d28155e10792589b98fb262f22cf1222ce03eebb13f45dfd767b519dadaa75"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_util_macros_jll.jl/releases/download/Xorg_util_macros-v1.19.2+0/Xorg_util_macros.v1.19.2.i686-linux-musl.tar.gz"
-[[Xorg_util_macros]]
-arch = "i686"
-git-tree-sha1 = "9d2551c2f831dcdc5cee6dd358cb58439942cb54"
+git-tree-sha1 = "94c85cc2b0af2f634eeb7d12314a7693b5bf11b4"
 libc = "glibc"
 os = "linux"
 
     [[Xorg_util_macros.download]]
-    sha256 = "0d3fbdd8651af6e56937a987d156d1ec29e4a96fe1bba5552a12271bb9d233ae"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_util_macros_jll.jl/releases/download/Xorg_util_macros-v1.19.2+0/Xorg_util_macros.v1.19.2.i686-linux-gnu.tar.gz"
+    sha256 = "826de7d67b709e2c7928bbe507886b6c7238ee464524d5171be4e7a339c50f7e"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_util_macros_jll.jl/releases/download/Xorg_util_macros-v1.19.2+1/Xorg_util_macros.v1.19.2.aarch64-linux-gnu.tar.gz"
+[[Xorg_util_macros]]
+arch = "armv7l"
+git-tree-sha1 = "970c3bd59c91960e2f586a11ca2d014953f4926a"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_util_macros.download]]
+    sha256 = "b4fb35e15ad841bd8b396709b513d72dc1396d5d331134e3b8dd8a605e348e97"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_util_macros_jll.jl/releases/download/Xorg_util_macros-v1.19.2+1/Xorg_util_macros.v1.19.2.armv7l-linux-musleabihf.tar.gz"
+[[Xorg_util_macros]]
+arch = "aarch64"
+git-tree-sha1 = "fa6a64880d08ccbeaa556cc4d79c47ee3449e779"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_util_macros.download]]
+    sha256 = "aa66c7ce7c3275105c56581ee11de92d479125c8a91db18b6cb33a65a55e7d95"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_util_macros_jll.jl/releases/download/Xorg_util_macros-v1.19.2+1/Xorg_util_macros.v1.19.2.aarch64-linux-musl.tar.gz"
 [[Xorg_util_macros]]
 arch = "x86_64"
-git-tree-sha1 = "d1dcfda8ef7af1b4418ed59b85f7e5f02bc330ae"
+git-tree-sha1 = "20fa7aed250cf2ffd371a5b5eeac8196213f75b6"
 os = "freebsd"
 
     [[Xorg_util_macros.download]]
-    sha256 = "2f98e097dcc1fe2bb7e2e5b028d688c9aadddb6820a07d87fa043f5830641a93"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_util_macros_jll.jl/releases/download/Xorg_util_macros-v1.19.2+0/Xorg_util_macros.v1.19.2.x86_64-unknown-freebsd11.1.tar.gz"
+    sha256 = "be94ef046761f0dda52f8a55630eb6161512726332ea45b24d374c3e850fea54"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_util_macros_jll.jl/releases/download/Xorg_util_macros-v1.19.2+1/Xorg_util_macros.v1.19.2.x86_64-unknown-freebsd11.1.tar.gz"
+[[Xorg_util_macros]]
+arch = "i686"
+git-tree-sha1 = "812a9bffdaea757e46400992d2036411dbd609e2"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_util_macros.download]]
+    sha256 = "64da9b2161e36e320c647473af27300b5b9412df6d80a5ffb84594225b5fe581"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_util_macros_jll.jl/releases/download/Xorg_util_macros-v1.19.2+1/Xorg_util_macros.v1.19.2.i686-linux-gnu.tar.gz"
+[[Xorg_util_macros]]
+arch = "x86_64"
+git-tree-sha1 = "393d52e1b8fd2cb94acb3265cda71f5064b85bd6"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_util_macros.download]]
+    sha256 = "e20b0bf84188ad5ac7c4b9c9c790330ee04da7e7d9342d4cb2809d7375ead742"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_util_macros_jll.jl/releases/download/Xorg_util_macros-v1.19.2+1/Xorg_util_macros.v1.19.2.x86_64-linux-musl.tar.gz"
+[[Xorg_util_macros]]
+arch = "x86_64"
+git-tree-sha1 = "77ee170cf4678109beee414b71cc55c84b9a4388"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_util_macros.download]]
+    sha256 = "f1746252a3b4c4c93792019a11b4e5858e94ae146ba032a3b809cb834577fb07"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_util_macros_jll.jl/releases/download/Xorg_util_macros-v1.19.2+1/Xorg_util_macros.v1.19.2.x86_64-linux-gnu.tar.gz"
 [[Xorg_util_macros]]
 arch = "powerpc64le"
-git-tree-sha1 = "20bcdb144823d7ceaae5a40d3055214e9b107809"
+git-tree-sha1 = "e238010251108ac1dd96c37071e0e6a630519d1c"
 libc = "glibc"
 os = "linux"
 
     [[Xorg_util_macros.download]]
-    sha256 = "6c30e31ff22410e871bb2b47b5f02a805b3d6bc8228b6996941f0a472536c659"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_util_macros_jll.jl/releases/download/Xorg_util_macros-v1.19.2+0/Xorg_util_macros.v1.19.2.powerpc64le-linux-gnu.tar.gz"
-[[Xorg_util_macros]]
-arch = "armv7l"
-git-tree-sha1 = "9e70b2a721a94c0e743443215a6c981bef7868dd"
-libc = "musl"
-os = "linux"
-
-    [[Xorg_util_macros.download]]
-    sha256 = "d2a3d116b0b1a4b7d31a194dae47db58fbc84443c8a63818a1db3bf23b052ad2"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_util_macros_jll.jl/releases/download/Xorg_util_macros-v1.19.2+0/Xorg_util_macros.v1.19.2.arm-linux-musleabihf.tar.gz"
-[[Xorg_util_macros]]
-arch = "aarch64"
-git-tree-sha1 = "541f32078601b42a20d4b75894a078fd8655ca5e"
-libc = "glibc"
-os = "linux"
-
-    [[Xorg_util_macros.download]]
-    sha256 = "33a5cecc3a94be5f0600116ab2b878c46549db8eecdee426381a713b72ca5539"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_util_macros_jll.jl/releases/download/Xorg_util_macros-v1.19.2+0/Xorg_util_macros.v1.19.2.aarch64-linux-gnu.tar.gz"
-[[Xorg_util_macros]]
-arch = "x86_64"
-git-tree-sha1 = "82e3cdb76246be60598e67939acd136d23cdc506"
-libc = "glibc"
-os = "linux"
-
-    [[Xorg_util_macros.download]]
-    sha256 = "5e4d4795566b667adb73ce07e1c928164b1f30b73c1ab0b4d7ce71d4f4dc499c"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_util_macros_jll.jl/releases/download/Xorg_util_macros-v1.19.2+0/Xorg_util_macros.v1.19.2.x86_64-linux-gnu.tar.gz"
-[[Xorg_util_macros]]
-arch = "x86_64"
-git-tree-sha1 = "c4950858d6e989936342e29509fc6d8aa24c3a8e"
-libc = "musl"
-os = "linux"
-
-    [[Xorg_util_macros.download]]
-    sha256 = "c02e42a17865721fe0ca8b482b8245e79a1b2eef0a46b9aa32a50e08b3e82f31"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_util_macros_jll.jl/releases/download/Xorg_util_macros-v1.19.2+0/Xorg_util_macros.v1.19.2.x86_64-linux-musl.tar.gz"
+    sha256 = "f20f4e5120cc21a35a5e0e87bddd4d7b5d895f1a93fea01ee976c03e8e6b2b80"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_util_macros_jll.jl/releases/download/Xorg_util_macros-v1.19.2+1/Xorg_util_macros.v1.19.2.powerpc64le-linux-gnu.tar.gz"
