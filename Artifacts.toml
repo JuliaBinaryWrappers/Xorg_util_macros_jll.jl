@@ -1,6 +1,6 @@
 [Xorg_util_macros]
-git-tree-sha1 = "3b2599117009a2e40f47144bc19eed4dd16e0e7b"
+git-tree-sha1 = "10f5e8a25c403c5e5fddbbd34b4b46ae7de91372"
 
     [[Xorg_util_macros.download]]
-    sha256 = "bf95da36f6d96daef2f55214447b3a0559117bf47cb7f9f9bbe46ceba3c003c4"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_util_macros_jll.jl/releases/download/Xorg_util_macros-v1.19.2+2/Xorg_util_macros.v1.19.2.any.tar.gz"
+    sha256 = "9ef9135357c877040c4b0355aa9e180493458eeea8d0b9b1993ce2e613b27e40"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_util_macros_jll.jl/releases/download/Xorg_util_macros-v1.19.2+3/Xorg_util_macros.v1.19.2.any.tar.gz"
